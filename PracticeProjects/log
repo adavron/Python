@@ -1,0 +1,20 @@
+Jun 17 13:38:01 localhost rsyslogd: [origin software="rsyslogd" swVersion="5.8.10" x-pid="1755" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Jun 17 13:44:29 localhost dhclient[27807]: DHCPREQUEST on eth0 to 192.168.245.254 port 67 (xid=0x77eaad05)
+Jun 17 13:44:29 localhost dhclient[27807]: DHCPACK from 192.168.245.254 (xid=0x77eaad05)
+Jun 17 13:44:29 localhost dhclient[27807]: bound to 192.168.245.142 -- renewal in 719 seconds.
+Jun 17 13:44:29 localhost NetworkManager[1840]: <info> (eth0): DHCPv4 state changed renew -> renew
+Jun 17 13:44:29 localhost NetworkManager[1840]: <info>   address 192.168.245.142
+Jun 17 13:44:29 localhost NetworkManager[1840]: <info>   prefix 24 (255.255.255.0)
+Jun 17 13:44:29 localhost NetworkManager[1840]: <info>   gateway 192.168.245.2
+Jun 17 13:44:29 localhost NetworkManager[1840]: <info>   nameserver '192.168.245.2'
+Jun 17 13:44:29 localhost NetworkManager[1840]: <info>   domain name 'localdomain'
+Jun 17 13:56:28 localhost dhclient[27807]: DHCPREQUEST on eth0 to 192.168.245.254 port 67 (xid=0x77eaad05)
+Jun 17 13:56:28 localhost dhclient[27807]: DHCPACK from 192.168.245.254 (xid=0x77eaad05)
+Jun 17 13:56:28 localhost dhclient[27807]: bound to 192.168.245.142 -- renewal in 900 seconds.
+Jun 17 13:56:28 localhost NetworkManager[1840]: <info> (eth0): DHCPv4 state changed renew -> renew
+Jun 17 13:56:28 localhost NetworkManager[1840]: <info>   address 192.168.245.142
+Jun 17 13:56:28 localhost NetworkManager[1840]: <info>   prefix 24 (255.255.255.0)
+Jun 17 13:56:28 localhost NetworkManager[1840]: <info>   gateway 192.168.245.2
+Jun 17 13:56:28 localhost NetworkManager[1840]: <info>   nameserver '192.168.245.2'
+Jun 17 13:56:28 localhost NetworkManager[1840]: <info>   domain name 'localdomain'
+Jun 17 14:11:28 localhost dhclient[27807]: DHCPREQUEST on eth0 to 192.168.245.254 port 67 (xid=0x77eaad05)
